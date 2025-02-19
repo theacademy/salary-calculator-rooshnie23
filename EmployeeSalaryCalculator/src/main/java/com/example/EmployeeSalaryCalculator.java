@@ -66,7 +66,8 @@ public class EmployeeSalaryCalculator
 				else
 				{
 					//YOUR CODE STARTS HERE
- 
+
+					grossSalary = 40*HR + (HW-standardWorkingHours)*2*HR;
 
 					//YOUR CODE ENDS HERE
 				}
